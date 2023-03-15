@@ -1,3 +1,6 @@
 pandas
 streamlit
 scikit-learn
+transformers
+elasticsearch
+torch
